@@ -1,0 +1,1 @@
+    bedrooms = data.get("bedrooms")
